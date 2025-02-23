@@ -4,10 +4,10 @@ Watershed Properties is a fictional real estate & property management company. T
 
 ## Context   
 
-The capstone project included fictional interviews with the Finance Director, Marketing Director, and the Project Manager. From these interviews, I came up with this fundemental question to ask of the data:  
+The capstone project included fictional interviews with the Finance Director, Marketing Director, and the Project Manager. From these interviews, I came up with these fundemental question to ask of the data:  
 
-**Which of our properties will be clearly profitable (6k+ profit per year) as short-term rentals over the first three years?  
-What is the change in cash flow and profits for these clearly profitable properties?**
+**1. Which of our properties will be clearly profitable (6k+ profit per year) as short-term rentals over the first three years?  
+2. What is the change in cash flow and profits for these clearly profitable properties?**
 
 ## Tableau dashboard
 
